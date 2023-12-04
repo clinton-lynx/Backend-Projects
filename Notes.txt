@@ -1,0 +1,17 @@
+Read and write on Route in  express js  and node js....{ Nov 27 2023}
+Read and write on Route in  express js  and node js....{ Nov 28 2023}
+Buiilding a task manager app 
+When building a server we setup the routes and controllers....
+so we have a single execution file {app.js}, in it our router files are exported to, so we can make use of the setup routes  
+Read about the essence of routes and controllers folders in creating
+
+Read and write on asynchronous javascriptP{Dec 4 2023}
+Read and write on async await{Dec 4 2023}
+Read and write on promises in js{Dec 4 2023}
+Read and write on try catch block{Dec 4 2023}
+Read and write on js feftch api{Dec 4 2023}
+Read and write on axios{Dec 4 2023}
+Read and write on mongoose schema and mongoose{Dec 4 2023}
+Read and write on mongoose validation  {Dec 4 2023}
+Read and write on .then .catch  {Dec 4 2023}
+Read and write on mongoose queries  {Dec 4 2023}
